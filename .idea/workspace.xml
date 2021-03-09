@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="83005cb5-953f-47bc-9852-e4fb7254b961" name="Default Changelist" comment="hello world bot, and added FractionCalc, did not interface the two yet.">
+      <change afterPath="$PROJECT_DIR$/MathJavaBot/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MathJavaBot/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MathJavaBot/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MathJavaBot/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MathJavaBot/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MathJavaBot/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MathJavaBot/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MathJavaBot/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MathJavaBot/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MathJavaBot/src/main/java/com/github/mrevanishere/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MathJavaBot/src/main/java/com/github/mrevanishere/fraccalc/FracCalc.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="a07cf3eb-57a7-4671-91fe-f24917880fc2" />
+  <component name="ProjectId" id="1og6wfEc7ByowKEZMx945VfF2wW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83005cb5-953f-47bc-9852-e4fb7254b961" name="Default Changelist" comment="" />
+      <created>1613696128418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613696128418</updated>
+      <workItem from="1613696132317" duration="72000" />
+      <workItem from="1613702111921" duration="132000" />
+      <workItem from="1613702259129" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hello world bot, and added FractionCalc, did not interface the two yet." />
+    <option name="LAST_COMMIT_MESSAGE" value="hello world bot, and added FractionCalc, did not interface the two yet." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1147" y="598" key="FileChooserDialogImpl" timestamp="1613696187216">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1147" y="598" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.1920.1160@0.0.2560.1400" timestamp="1613696187216" />
+    <state x="229" y="433" key="Vcs.Push.Dialog.v2" timestamp="1613702234342">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="229" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1920.1160@0.0.2560.1400" timestamp="1613702234342" />
+    <state x="750" y="454" key="new project wizard" timestamp="1613696202431">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="750" y="454" key="new project wizard/0.0.2560.1400/2560.0.1920.1160@0.0.2560.1400" timestamp="1613696202431" />
+  </component>
+</project>
